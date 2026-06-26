@@ -326,7 +326,7 @@ https://script.google.com/macros/s/AKfycbyOtQbFiRyzEHbeRxn4rN4BSQiG5XnYOoDet7-XN
 
 ## ⭐ Star this Repository if you like the project ⭐
 
-### Made with ❤️ using Google Apps Script, HTML, CSS & JavaScript
+### Made using Google Apps Script, HTML, CSS & JavaScript
 
 🚀 Happy Coding!
 
